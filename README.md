@@ -1,4 +1,4 @@
- Challenge-TelecomX_LATAM
+# Challenge-TelecomX_LATAM
 
 Estrategia de Retención y Optimización de LTV - TelecomX LATAM
 Análisis de churn y comportamiento de consumo para una operación de telecomunicaciones en LATAM mediante Python. El proyecto audita la fuga de clientes, la eficiencia de los métodos de pago y el impacto de la infraestructura de red para transformar métricas de abandono en una hoja de ruta de retención agresiva.
