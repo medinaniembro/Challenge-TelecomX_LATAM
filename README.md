@@ -37,6 +37,6 @@ Asegurarse de tener instaladas las dependencias: pip install pandas matplotlib s
 
 Ejecutar el notebook Challenge_TelecomX_LATAM.ipynb.
 
-Autor: Rodrigo Medina
-
-Fecha: Marzo 2026
+---
+**Autor:** Rodrigo Medina  
+**Fecha:** Marzo 2026
